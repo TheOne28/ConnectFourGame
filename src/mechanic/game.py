@@ -43,7 +43,7 @@ class Game:
         if self.config.game_type == GameConstant.BVB:
             if not self.config.is_dump:
                 # Change this into your bots
-                model1 = Bot13519144()
+                model1 = Bot13520099()
                 model2 = Bot13519144()
             else:
                 # Don't change this
